@@ -7,7 +7,6 @@ Web Dev
 
 i am fresh graduated i am learning coding for 1 year
 
-* 🌍  I'm based in tanjung pinang
 * ✉️  You can contact me at [chichung477@gmail.com](mailto:chichung477@gmail.com)
 * 🧠  I'm learning Laravel
 
